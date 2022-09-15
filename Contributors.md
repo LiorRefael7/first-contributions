@@ -26,6 +26,7 @@
 - [Liam Banahan](https://github.com/liambanahan)
 - [Bruno Dede Jr](https://github.com/7Arms)
 - [Henry Percy](https://github.com/henryppercy)
+- [Lior Refael](https://github.com/LiorRefael7)
 - [Braedon Behnke]
 - [Matt Doughty](https://github.com/maddo1919)
 - [Pranathi Pulimamidy](https://github.com/ppulimamidy)
